@@ -51,7 +51,7 @@ h3 {
 }
 a {
   text-decoration: none;
-  color: #bedeea;
+  color: #78f0ed;
 }
 a:hover {
   text-decoration: underline;
@@ -115,7 +115,7 @@ a:hover {
   color: #fff;
 }
 #header a:hover {
-  color: #bedeea;
+  color: #78f0ed;
   text-decoration: none;
 }
 #header h1 {
@@ -247,7 +247,7 @@ article header .icon {
   position: absolute;
   top: 20px;
   left: 20px;
-  color: #bedeea;
+  color: #78f0ed;
 }
 @media screen and (max-width: 600px) {
   article header .icon {
@@ -276,7 +276,7 @@ article header .title a {
   color: #fff;
 }
 article header .title a:hover {
-  color: #bedeea;
+  color: #78f0ed;
   text-decoration: none;
 }
 article .entry {
@@ -440,7 +440,7 @@ article footer a {
   color: #fff;
 }
 article footer a:hover {
-  color: #bedeea;
+  color: #78f0ed;
   text-decoration: none;
 }
 article footer a:before {
@@ -502,7 +502,7 @@ article footer .addthis iframe {
   margin-bottom: 50px;
 }
 #pagination a:hover {
-  background: #bedeea;
+  background: #78f0ed;
   color: #fff;
   text-decoration: none;
   text-shadow: none;
@@ -681,10 +681,10 @@ article footer .addthis iframe {
   font-size: 100%;
 }
 .entry .gist .gist-file .gist-meta a {
-  color: #bedeea;
+  color: #78f0ed;
 }
 .entry .gist .gist-file .gist-meta a:visited {
-  color: #bedeea;
+  color: #78f0ed;
 }
 figure.highlight {
   background: #eee;
